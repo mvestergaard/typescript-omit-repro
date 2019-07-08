@@ -1,0 +1,16 @@
+{
+  "name": "tstest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "@types/react-select": "^3.0.0",
+    "typescript": "^3.5.2"
+  },
+  "dependencies": {
+    "react-select": "^3.0.4"
+  }
+}
